@@ -1,3 +1,6 @@
+
+![LinkDB a database of 117million Linkedin Profiles](https://user-images.githubusercontent.com/66735394/196608371-e2e74226-61ab-4c4e-8101-a8400b729164.png)
+
 # What is LinkDB?
 
 Hey everyone this is Sobit,  now before you read this article, I have a quick question for you below.
